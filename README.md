@@ -56,3 +56,8 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+
+
+# Results:
+
+https://cxnf8ns75i.execute-api.us-east-1.amazonaws.com/prod?param1=value1&&param2=value2
